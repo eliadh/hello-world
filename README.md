@@ -1,4 +1,4 @@
-# hello-world
+# first-repo
 First github repository
 
 A bit of lorem ipsum:
