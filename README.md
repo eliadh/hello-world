@@ -6,6 +6,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer eu tortor ullam
 
 ```python
 def main():
-  print('test')
+    print('test')
 ```
 
